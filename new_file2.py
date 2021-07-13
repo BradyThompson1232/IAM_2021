@@ -8,11 +8,16 @@
 # asfa
 #  dsfasf
 
-# these are the changes joe thomas wants to make
-# iaf
-# f
-# adsfa
-# sfew
-# fa
-# wef
-# awefa
+# these are the new round of changes brady wants to make
+# sifaew
+# asdfawe
+# fasf
+# try:
+#     ge
+#     age
+# except expression as identifier:
+#     pass
+# else:
+#     pass
+# finally:
+#     pass
