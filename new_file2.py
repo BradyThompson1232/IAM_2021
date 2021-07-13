@@ -7,3 +7,12 @@
 # dsfdfs
 # asfa
 #  dsfasf
+
+# these are the changes joe thomas wants to make
+# iaf
+# f
+# adsfa
+# sfew
+# fa
+# wef
+# awefa
